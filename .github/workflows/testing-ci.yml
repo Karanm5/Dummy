@@ -25,4 +25,4 @@ steps:
   -name : Format code
     run: |
       make format
-  |
+  
